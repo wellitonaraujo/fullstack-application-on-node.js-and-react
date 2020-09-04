@@ -18,7 +18,7 @@
     "react-twitter-embed": "^2.0.4",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "serve": "^9.4.0"
+    "serve": "^11.3.2"
   },
   "scripts": {
     "dev": "react-scripts start",
